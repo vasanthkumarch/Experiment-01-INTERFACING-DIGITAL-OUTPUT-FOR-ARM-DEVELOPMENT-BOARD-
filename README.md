@@ -1,1 +1,1 @@
-# Experiment-01-ALP-for-Arithmetic-operations-
+# Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
