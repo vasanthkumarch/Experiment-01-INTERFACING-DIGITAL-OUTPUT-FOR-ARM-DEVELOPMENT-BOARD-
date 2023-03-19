@@ -1,6 +1,5 @@
 # Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
-# EXPERIMENT--02-Interfacing-a-Digital-output-LED-to-LPC2148-ARM-7-Microcontroller-
-## Interfacing a Digital output (LED) to LPC2148 ARM 7 Microcontroller 
+ ## Interfacing a Digital output (LED) to LPC2148 ARM 7 Microcontroller 
 
 ## Aim: To Interface a Digital output (LED) to LPC2148 ARM 7 and write a blink code 
 ## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
