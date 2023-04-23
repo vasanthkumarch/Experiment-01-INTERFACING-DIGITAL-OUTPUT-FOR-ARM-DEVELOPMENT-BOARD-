@@ -63,7 +63,7 @@ The main features of LPC2148 include the following.
 
 9. use project and build all 
 ![image](https://user-images.githubusercontent.com/36288975/226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec.png)
-10. once the project is bulild 
+10. once the project is bulild link the hexfile build in stm32cube ide using post processor build 
 ![image](https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png)
 
 11. click on debug option 
